@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on my **ASP.NET MVC**
 
-- 🌱 I’m currently learning **.NET CORE , MVC5**
+- 🌱 I’m currently learning **.NET CORE , MVC5, DESIGN PATTERNS**
 
 - 👯 I’m looking to collaborate on **back-end projects**
 
@@ -48,7 +48,8 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cagataycansever&show_icons=true&locale=en"
-    alt="cagataycansever" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cagataycansever&" alt="cagataycansever" /> </p>
+    alt="cagataycansever" /> </p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cagataycansever&" alt="cagataycansever" /> </p>
 
 
 <hr>
