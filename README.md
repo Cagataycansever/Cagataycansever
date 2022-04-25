@@ -5,11 +5,11 @@
 <p><img align="right" src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" alt="cagataycansever" /></p>
 
 
-- 🔭 I’m currently working on my **ASP.NET MVC**
+- 🔭 I’m currently working on my **.NET CORE 6**
 
 - 🌱 I’m currently learning **.NET CORE , MVC5, DESIGN PATTERNS**
 
-- 👯 I’m looking to collaborate on **back-end projects**
+- 👯 I’m looking to collaborate on **Back-End Projects**
 
 <br>
 
